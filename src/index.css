@@ -27,6 +27,18 @@ body {
   justify-content: center;
 }
 
+.nearMe-btn{
+  margin: 0!important;
+  border-radius: 10px !important;
+  border: none !important;
+  height: 44px;
+  width: inherit;
+  outline: none !important;
+  background: #7c7c7c2b;
+  color: white;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
 button {
   margin: 0.5em !important;
   border-radius: 50% !important;
